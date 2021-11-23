@@ -10,5 +10,5 @@ const parseMessage = (origin, message) => {
 
 //  Output:
 
-//     Mission Control: Hello there!
+// Mission Control: Hello there!
     
